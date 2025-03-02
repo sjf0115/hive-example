@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
 /**
- * Created by wy on 2020/9/13.
+ * JDBC 示例
  */
 public class JdbcExample {
 
